@@ -195,6 +195,7 @@ ResourcePref resources[] = {
   {"borderpx", INTEGER, &borderpx},
   {"cwscale", FLOAT, &cwscale},
   {"chscale", FLOAT, &chscale},
+  {"alpha", FLOAT, &alpha},
   {"ximspot_update_interval", INTEGER, &ximspot_update_interval},
 };
 
